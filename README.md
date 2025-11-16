@@ -49,6 +49,7 @@ Developed by: JUHI JAHAN T S RegisterNumber:25011334
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![WhatsApp Image 2025-11-16 at 21 31 11_ea5f59e9](https://github.com/user-attachments/assets/54863452-2cf0-45af-9d9f-f3fc52f4701d)
 
 
 
