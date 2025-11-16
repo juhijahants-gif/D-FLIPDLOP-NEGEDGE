@@ -49,7 +49,6 @@ Developed by: JUHI JAHAN T S RegisterNumber:25011334
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-<img width="1220" height="287" alt="Screenshot 2025-11-15 220219" src="https://github.com/user-attachments/assets/a91da6e3-45d6-4a96-9800-1aab7a77a7f4" />
 
 
 
